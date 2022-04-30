@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/pluse</title>
+    <g id="icon/pluse" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <circle id="Oval" fill="#6E3FD5" cx="8" cy="8" r="8"></circle>
+            <path d="M8,5 C8.20710678,5 8.375,5.16789322 8.375,5.375 L8.375,7.625 L10.625,7.625 C10.8321068,7.625 11,7.79289322 11,8 C11,8.20710678 10.8321068,8.375 10.625,8.375 L8.375,8.375 L8.375,10.625 C8.375,10.8321068 8.20710678,11 8,11 C7.79289322,11 7.625,10.8321068 7.625,10.625 L7.625,8.375 L5.375,8.375 C5.16789322,8.375 5,8.20710678 5,8 C5,7.79289322 5.16789322,7.625 5.375,7.625 L7.625,7.625 L7.625,5.375 C7.625,5.16789322 7.79289322,5 8,5 Z" id="Icon" fill="#FDFCFF"></path>
+        </g>
+    </g>
+</svg>

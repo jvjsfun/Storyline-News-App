@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/check</title>
+    <g id="icon/check" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/checkActive">
+            <circle id="Oval" fill="#6E3FD5" cx="8" cy="8" r="8"></circle>
+            <path d="M7.37303422,10.0487914 L5.51213461,8.18789176 C5.39497674,8.07073388 5.20502629,8.07073388 5.08786841,8.18789176 C4.97071053,8.30504964 4.97071053,8.49500009 5.08786841,8.61215797 L7.18787899,10.7121685 C7.31505764,10.8393472 7.52478877,10.8268083 7.63590878,10.6853828 L10.9359254,6.48536169 C11.0382899,6.35507954 11.0156583,6.16648214 10.8853761,6.0641176 C10.755094,5.96175305 10.5664966,5.98438474 10.464132,6.11466689 L7.37303422,10.0487914 Z" id="Icon" fill="#FDFCFF"></path>
+        </g>
+    </g>
+</svg>
